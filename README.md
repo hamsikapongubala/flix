@@ -38,7 +38,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 ![](week1Assignment.gif)
-<img src='https://i.imgur.com/ciLxd4a.gifv' title='Video Walkthrough' width='40' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ciLxd4a.gifv' title='Video Walkthrough' width='200'/><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
