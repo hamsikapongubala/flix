@@ -39,7 +39,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ![](flix.gif)
 ![](flixWeek2.gif)
-<img src='https://imgur.com/a/giwlllb' title='Video Walkthrough' width='200'/><br>
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
